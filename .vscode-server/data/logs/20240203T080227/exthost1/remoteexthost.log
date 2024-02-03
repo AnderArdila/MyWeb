@@ -1,0 +1,15 @@
+2024-02-03 08:02:31.994 [info] Extension host with pid 2780 started
+2024-02-03 08:02:32.143 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-03 08:02:32.149 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-02-03 08:02:32.402 [info] Lock '/home/ander/.vscode-server/data/User/workspaceStorage/b79004ed3bff3b025474fe3d943c51b6/vscode.lock': Lock acquired.
+2024-02-03 08:02:33.152 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-03 08:02:33.173 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-03 08:02:33.174 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-03 08:02:33.958 [info] Eager extensions activated
+2024-02-03 08:02:33.959 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-03 08:02:33.960 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-03 08:02:33.961 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-02-03 08:02:39.131 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-02-03 08:05:15.951 [info] Extension host terminating: received terminate message from renderer
+2024-02-03 08:05:15.953 [info] Lock '/home/ander/.vscode-server/data/User/workspaceStorage/b79004ed3bff3b025474fe3d943c51b6/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-02-03 08:05:16.160 [info] Extension host with pid 2780 exiting with code 0

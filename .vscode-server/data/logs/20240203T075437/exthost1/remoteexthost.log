@@ -1,0 +1,16 @@
+2024-02-03 07:54:42.007 [info] Extension host with pid 725 started
+2024-02-03 07:54:42.181 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-02-03 07:54:42.255 [info] Lock '/home/ander/.vscode-server/data/User/workspaceStorage/b79004ed3bff3b025474fe3d943c51b6/vscode.lock': Lock acquired.
+2024-02-03 07:54:42.309 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-03 07:54:42.737 [info] Eager extensions activated
+2024-02-03 07:54:42.738 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-03 07:54:42.739 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-03 07:54:52.438 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-02-03 07:55:04.736 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-02-03 07:55:04.737 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-03 07:59:25.773 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2024-02-03 07:59:25.774 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:pwa-chrome'
+2024-02-03 07:59:26.253 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-02-03 08:00:07.465 [info] Extension host terminating: received terminate message from renderer
+2024-02-03 08:00:07.466 [info] Lock '/home/ander/.vscode-server/data/User/workspaceStorage/b79004ed3bff3b025474fe3d943c51b6/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-02-03 08:00:07.668 [info] Extension host with pid 725 exiting with code 0

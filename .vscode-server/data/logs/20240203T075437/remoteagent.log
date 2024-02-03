@@ -1,0 +1,13 @@
+2024-02-03 07:54:37.868 [info] 
+
+
+
+
+2024-02-03 07:54:37.868 [info] Extension host agent started.
+2024-02-03 07:54:37.870 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ander/.vscode-server/extensions
+2024-02-03 07:54:37.937 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ander/.vscode-server/extensions
+2024-02-03 07:54:38.173 [info] [127.0.0.1][14510c51][ManagementConnection] New connection established.
+2024-02-03 07:54:39.684 [info] [127.0.0.1][72a23770][ExtensionHostConnection] New connection established.
+2024-02-03 07:54:39.712 [info] [127.0.0.1][72a23770][ExtensionHostConnection] <725> Launched Extension Host Process.
+2024-02-03 08:00:07.467 [info] [127.0.0.1][14510c51][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-03 08:00:07.711 [info] [127.0.0.1][72a23770][ExtensionHostConnection] <725> Extension Host Process exited with code: 0, signal: null.
